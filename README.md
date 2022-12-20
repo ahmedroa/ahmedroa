@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ahmedroa
 - 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Twitter : Dev_ahmed1
 
