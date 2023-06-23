@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedroa
-- 👀 I’m interested in Flutter 
+- 👋 Hi, I’m ahmed Khalid
+- 👀 I’m interested in Flutter + Firebase 
 - 📫 Twitter : Dev_ahmed1
 
