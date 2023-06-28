@@ -1,5 +1,5 @@
  <h1 align="start">Hi 👋, I'm My name is Ahmed Khalid</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="start">Flutter Developer</h3>
 
 -📱 Mobile App developer
 - 🤓 Always learning new things.
