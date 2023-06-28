@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm My name is Ahmed Khalid</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/dev__ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/dev__ahmed?logo=twitter&style=for-the-badge" alt="dev__ahmed" /></a> </p>
 
 - 🌱 I’m currently learning **Back end development**
 - 🤓 Always learning new things.
