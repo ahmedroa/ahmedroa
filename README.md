@@ -4,8 +4,9 @@
 <p align="left"> <a href="https://twitter.com/dev__ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/dev__ahmed?logo=twitter&style=for-the-badge" alt="dev__ahmed" /></a> </p>
 
 - 🌱 I’m currently learning **Back end development**
-
-- Email **dev.ahmed10@gmail.com**
+- 🤓 Always learning new things.
+- 💬 Ask me about Flutter, Firebase
+📫 Feel free to reach me out  dev.ahmed10@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
