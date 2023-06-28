@@ -5,7 +5,7 @@
 - 🤓 Always learning new things.
 - 🌱 I’m currently learning **Back end development**
 - 💬 Ask me about Flutter, Firebase, Rest Api
--📫 Feel free to reach me out  dev.ahmed10@gmail.com
+- 📫 Feel free to reach me out  dev.ahmed10@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
