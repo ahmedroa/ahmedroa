@@ -1,7 +1,6 @@
  <h1 align="start">Hi 👋, My name is Ahmed Khalid</h1>
-<h2 align="start">Flutter Developer</h2>
+<h2 align="start">📱 Mobile App developer</h2>
 
--📱 Mobile App developer
 
 - 🤓 Always learning new things.
 - 💙 My favorite framework : Futter
