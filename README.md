@@ -2,10 +2,11 @@
 <h2 align="start">Flutter Developer</h2>
 
 -📱 Mobile App developer
+
 - 🤓 Always learning new things.
 - 💙 My favorite framework : Futter
 - 🌱 I’m currently learning **Back end development**
-- 💬 Ask me about Flutter, Firebase, Rest Api
+- 💬 Ask me about Flutter, Dat, Firebase,
 - 📫 Feel free to reach me out  dev.ahmed10@gmail.com
 
 <h3 align="left">Connect with me:</h3>
