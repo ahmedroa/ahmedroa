@@ -3,7 +3,7 @@
 
 
 - 🤓 Always learning new things.
-- 💙 My favorite framework : Futter
+- 💙 My favorite framework : Flutter
 - 🌱 I’m currently learning **Back end development**
 - 💬 Ask me about Flutter, Dat, Firebase,
 - 📫 Feel free to reach me out  dev.ahmed10@gmail.com
